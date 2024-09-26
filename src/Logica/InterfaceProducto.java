@@ -1,5 +1,5 @@
 package Logica;
 
 public interface InterfaceProducto {
-    void uso();
+    Producto crearProducto(String nombre);
 }
